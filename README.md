@@ -7,8 +7,6 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caroline-moreno&layout=compact&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=0d1117" />
 </div>
 
-![Caroline Moreno's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=caroline-moreno&bg_color=0d1117&color=00bfbf&line=FFFFFF&point=00bfbf&area=true&hide_border=true)
-
 ### Main skills:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Google Cloud](https://img.shields.io/badge/-GoogleCloud-0D1117?style=for-the-badge&logo=googlecloud&labelColor=0D1117&textColor=0D1117)&nbsp;
