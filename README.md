@@ -28,7 +28,7 @@
 ![HTML](https://img.shields.io/badge/-html-0D1117?style=for-the-badge&logo=html&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-typescript-0D1117?style=for-the-badge&logo=typescript&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![IA](https://img.shields.io/badge/-ia-0D1117?style=for-the-badge&logo=typescript&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![Microsoft IA](https://img.shields.io/badge/-microsoftia-0D1117?style=for-the-badge&logo=typescript&logoColor=1572B6&labelColor=0D1117)&nbsp;
 
  <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
