@@ -13,13 +13,11 @@
 ![Azure](https://img.shields.io/badge/-azure-0D1117?style=for-the-badge&logo=googlecloud&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 ### Tools:
-![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-0D1117?style=for-the-badge&logo=visual%20studio&labelColor=0D1117)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
-![Notion](https://img.shields.io/badge/-Notion-0D1117?style=for-the-badge&logo=notion&labelColor=0D1117)&nbsp;
-![Replit](https://img.shields.io/badge/-Replit-0D1117?style=for-the-badge&logo=replit&labelColor=0D1117)&nbsp;
-![Android Studio](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
+![Github](https://img.shields.io/badge/Github-0078D4?style=for-the-badge&logo=github&logoColor=white)&nbsp;
+![Replit](https://img.shields.io/badge/Replit-3DDC84?style=for-the-badge&logo=replit&logoColor=white)&nbsp;
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
 
 ### Other Knowledge:
 ![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
