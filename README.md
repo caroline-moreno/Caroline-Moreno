@@ -18,14 +18,14 @@
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
 ![Notion](https://img.shields.io/badge/-Notion-0D1117?style=for-the-badge&logo=notion&labelColor=0D1117)&nbsp;
 ![Replit](https://img.shields.io/badge/-Replit-0D1117?style=for-the-badge&logo=replit&labelColor=0D1117)&nbsp;
-![Maya](https://img.shields.io/badge/-Maya-0D1117?style=for-the-badge&logo=maya&labelColor=0D1117)&nbsp;
-![ZBrush](https://img.shields.io/badge/-ZBrush-0D1117?style=for-the-badge&logo=zbrush&labelColor=0D1117)&nbsp;
-
-
 
 ### Other Knowledge:
 ![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
 ![Canva](https://img.shields.io/badge/-canva-0D1117?style=for-the-badge&logo=canva&labelColor=0D1117)&nbsp;
+![Maya](https://img.shields.io/badge/-Maya-0D1117?style=for-the-badge&logo=maya&labelColor=0D1117)&nbsp;
+![ZBrush](https://img.shields.io/badge/-ZBrush-0D1117?style=for-the-badge&logo=zbrush&labelColor=0D1117)&nbsp;
+![Substance Painter](https://img.shields.io/badge/-ZBrush-0D1117?style=for-the-badge&logo=substancepainter&labelColor=0D1117)&nbsp;
+![Unreal Engine](https://img.shields.io/badge/-ZBrush-0D1117?style=for-the-badge&logo=unrealengine&labelColor=0D1117)&nbsp;
   
 ### Studying in this moment:
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
