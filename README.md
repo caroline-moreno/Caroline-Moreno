@@ -18,8 +18,8 @@
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
 ![Notion](https://img.shields.io/badge/-Notion-0D1117?style=for-the-badge&logo=notion&labelColor=0D1117)&nbsp;
 ![Replit](https://img.shields.io/badge/-Replit-0D1117?style=for-the-badge&logo=replit&labelColor=0D1117)&nbsp;
-![Maya](https://img.shields.io/badge/-Maya-0D1117?style=for-the-badge&logo=replit&labelColor=0D1117)&nbsp;
-![ZBrush](https://img.shields.io/badge/-ZBrush-0D1117?style=for-the-badge&logo=replit&labelColor=0D1117)&nbsp;
+![Maya](https://img.shields.io/badge/-Maya-0D1117?style=for-the-badge&logo=maya&labelColor=0D1117)&nbsp;
+![ZBrush](https://img.shields.io/badge/-ZBrush-0D1117?style=for-the-badge&logo=zbrush&labelColor=0D1117)&nbsp;
 
 
 
@@ -30,11 +30,11 @@
 ### Studying in this moment:
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![HTML](https://img.shields.io/badge/-html-0D1117?style=for-the-badge&logo=html&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-java-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![PHP](https://img.shields.io/badge/-php-0D1117?style=for-the-badge&logo=typescript&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=typescript&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![Flutter](https://img.shields.io/badge/-flutter-0D1117?style=for-the-badge&logo=typescript&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![Dart](https://img.shields.io/badge/-dart-0D1117?style=for-the-badge&logo=typescript&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![JavaScript](https://img.shields.io/badge/-java-0D1117?style=for-the-badge&logo=javascript&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![PHP](https://img.shields.io/badge/-php-0D1117?style=for-the-badge&logo=php&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![Flutter](https://img.shields.io/badge/-flutter-0D1117?style=for-the-badge&logo=flutter&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![Dart](https://img.shields.io/badge/-dart-0D1117?style=for-the-badge&logo=dart&logoColor=1572B6&labelColor=0D1117)&nbsp;
 
  <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
