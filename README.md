@@ -23,7 +23,7 @@
 ![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
 ![Canva](https://img.shields.io/badge/-canva-0D1117?style=for-the-badge&logo=canva&labelColor=0D1117)&nbsp;
 ![Maya](https://img.shields.io/badge/-maya-0D1117?style=for-the-badge&logo=maya&labelColor=0D1117)&nbsp;
-![ZBrush](https://img.shields.io/badge/-zbrush-0D1117?style=for-the-badge&logo=zbrush&labelColor=0D1117)&nbsp;
+![ZBrush](https://img.shields.io/badge/-ZBrush-0D1117?style=for-the-badge&logo=zbrush&labelColor=0D1117)&nbsp;
 ![Substance Painter](https://img.shields.io/badge/-SubstancePainter-0D1117?style=for-the-badge&logo=substancepainter&labelColor=0D1117)&nbsp;
 ![Unreal Engine](https://img.shields.io/badge/-UnrealEngine-0D1117?style=for-the-badge&logo=unrealengine&labelColor=0D1117)&nbsp;
   
